@@ -1,2 +1,4 @@
 # ibm-datascience
-Repositório criado no durante o curso de Ciência de Dados da IBM
+Repositório criado no durante o curso de Ciência de Dados da IBM.
+
+Primeira edição.
